@@ -1,7 +1,9 @@
-## Available Scripts
+## before starting use  
 
 ## npm install 
 to install snowpack and uuid  
+
+## Available Scripts
 
 ### npm start
 
