@@ -1,5 +1,7 @@
 import {v4 as uuidV4} from "uuid";
 
+console.log("Hello, World!\n");
+
 //** Task type, done in intro**/
 type Task ={
   id: string, 
