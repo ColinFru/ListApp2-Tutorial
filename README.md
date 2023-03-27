@@ -19,5 +19,5 @@ Your app is ready to be deployed!
 
 ## How to delete the List entries on the Webpage 
  
-right click on website >ivestigate (untersuchen) >application (anwendung) >
+right click on website >inspect (untersuchen) >application (anwendung) >
 localstorage >rightclick >delete (löschen)
