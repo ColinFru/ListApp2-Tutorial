@@ -1,17 +1,9 @@
-## to test your ts installation
+## to test your typeScript installation
 Run  ```tsc test/test.ts``` and ```node test/test.js```. "Hello, world" should appear in console.
 
-## before starting use  
+## installation and running  
 
-## npm install 
-to install snowpack and uuid  
-
-## Available Scripts
-
-### npm start
-
-Runs the app in the development mode.
-Open http://localhost:8080 to view it in the browser.
+Run  ```npm install``` to install dependecies. Run  ```npm start``` to start the app in development mode. Open http://localhost:8080 to view it in the browser.
 
 The page will reload if you make edits.
 You will also see any lint errors in the console.
